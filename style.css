@@ -140,14 +140,36 @@ p{
     margin-top: 100px;
     background: rgba(92, 78, 68, 0.541);
     text-align: center;
+    color: black;
  box-shadow: 10px 10px 40px rgb(61, 56, 56);
     padding-top: 15px;
     padding-bottom: 15px;
+    border-radius: 20px;
 }
 .site img{
     margin: 10px;
     height: 30px;
     width: 30px;
+}
+
+.order{
+    text-align: center;
+    background-color: rgba(231, 147, 204, 0.383);
+    border-radius: 30px;
+    margin-bottom: 100px;
+}
+.order p{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    color:black
+}
+.order h2{
+   
+  margin-top: 100px;
+    
+   color: orange;
+    text-align: center;
 }
 
 .foot p{
