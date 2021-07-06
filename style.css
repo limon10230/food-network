@@ -32,7 +32,7 @@ h1{
     font-size: 50px;
 }
 h3{
-    font-size: 30px;
+    font-size: 20px;
 }
 h2{
     padding: 10px;
@@ -124,6 +124,15 @@ p{
 .food-3{
     background-image: url(images/food/Project\ Cover1.jpg);
     
+}
+.foot{
+    margin-top: 100px;
+    background: grey;
+    color: rgb(15, 15, 13);
+    text-align: center;
+}
+.foot p{
+    text-align: center;
 }
 
 
